@@ -4,3 +4,12 @@ Kleine TD Spiel, benutzt Java Swing sowie AWT
 
 # Beschreibung
 [PDF-Beschreibungsdatei](https://github.com/netbeifeng/VirusDefense_TD/blob/master/Virus%20Defense(VD).pdf)
+
+# Main Interface
+![]()
+# Help Interface
+![]()
+# Game Interface
+![]()
+# Pause Interface
+![]()
